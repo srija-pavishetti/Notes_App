@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes App</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="speech_prompt">Speak to add Notes</string>
+    <string name="speech_not_supported">Speech Not Supported</string>
+    <string name="speakToSearchNote">Speak To Search Note</string>
+    <!-- <string name="app_name">Notes App</string>-->
+</resources>
